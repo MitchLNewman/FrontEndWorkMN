@@ -1,3 +1,5 @@
+'use strict';
+
 let a = 100;
 while (a <= 200) {
   if (a % 2 == 0) {

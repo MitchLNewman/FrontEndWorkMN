@@ -1,3 +1,5 @@
+'use strict';
+
 let now = new Date(); 
 let day = now.getDay();
 switch (day) {
